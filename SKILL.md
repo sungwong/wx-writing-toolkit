@@ -10,12 +10,12 @@ description: |
 
 ## 第一步：读取配置
 
-读取 `~/.baoyu-skills/wx-writing-toolkit/config.md`。
+读取 `~/.wx-writing-toolkit/config.md`。
 
 如果文件不存在，**立刻停下来**，输出以下内容，等用户操作后再继续：
 
 ```
-请先完成配置，在 ~/.baoyu-skills/wx-writing-toolkit/config.md 中填入：
+请先完成配置，在 ~/.wx-writing-toolkit/config.md 中填入：
 
 领域: 你的公众号方向（例：职场效率、亲子教育、健身减脂）
 人群: 你的目标读者（例：25-35岁职场妈妈、想副业的上班族）
@@ -520,7 +520,7 @@ description: |
 
 ## 配置说明
 
-在 `~/.baoyu-skills/wx-writing-toolkit/config.md` 中填入：
+在 `~/.wx-writing-toolkit/config.md` 中填入：
 
 ```markdown
 # wx-writing-toolkit 配置
